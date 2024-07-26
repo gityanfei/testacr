@@ -1,4 +1,4 @@
-FROM centos:7
+FROM registry.cn-beijing.aliyuncs.com/ack-container/centos:7
 
 ADD *.txt /tmp/
 
